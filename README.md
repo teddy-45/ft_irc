@@ -33,7 +33,7 @@ ft_irc/
 
 ⚙️ Installation & Usage
 1. Clone the repository
-git clone https://github.com/your-username/ft_irc.git
+git clone https://github.com/teddy-45/ft_irc.git
 cd ft_irc
 
 2. Compile
