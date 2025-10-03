@@ -86,12 +86,6 @@ Users can challenge the bot or another user to play in a channel.
 
 The bot manages the game state, checks for wins/draws, and updates the board in real time.
 
- X |   |  
------------
-   | O |  
------------
-   |   |  
-
 🛠️ Development Notes
 
 Language: C++98
